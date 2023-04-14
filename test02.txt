@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 brand public mà thôi
+=======
+brand main và public
+>>>>>>> main

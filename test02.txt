@@ -1,2 +1,2 @@
 Hello
-brand main
+brand public mà thôi
